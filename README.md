@@ -1,0 +1,3 @@
+# Powerquery course
+
+I don't know if I will write the notes on Notion or here...
